@@ -6,7 +6,6 @@ display_menu()
     echo "3. Delete a task"
     echo "4. Exit the program"
     echo
-    
 }
 [ ! -f ~/todo.txt ] && touch ~/todo.txt
 
